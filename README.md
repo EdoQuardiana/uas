@@ -1,4 +1,4 @@
-# uas2
+# uas
 
 A new Flutter project.
 
